@@ -1,2 +1,4 @@
 my name is tom 
 how old are you?
+it is a distributed version control system.
+Git is free software.
